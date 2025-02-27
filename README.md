@@ -35,7 +35,7 @@
 
 📷 **Screenshot Konfigurasi PHP.ini:**
 
-![alt text](image.png)
+![alt text](gambar/image.png)
 
 ---
 
